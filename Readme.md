@@ -1,8 +1,12 @@
 # Museum of Candy
 
-Nothing to see here except some cute candy pics and maybe some HTML/CSS code for reference!
+Nothing to see here except some cute candy pics and maybe some HTML/CSS code for reference.
 
-###  Best resources for front end web dev:
+speaking of candies, here's a sweet candy for you dear visitor!
+
+![alt text](<candy for u-1.jpg>)
+
+###  Sweet resources for front end web dev:
 
 [CodePen](https://codepen.io/): An online code editor and open-source learning environment where you can write HTML, CSS, and JavaScript. It offers a community-driven platform for sharing and discovering code snippets and mini-projects.
 
