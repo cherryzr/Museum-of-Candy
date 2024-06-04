@@ -4,7 +4,7 @@ Nothing to see here except some cute candy pics and maybe some HTML/CSS code for
 
 speaking of candies, here's a sweet candy for you dear visitor!
 
-![alt text](<candy for u-1.jpg>)
+![alt text](imgs/candy_for_u.jpg)
 
 ###  Sweet resources for front end web dev:
 
